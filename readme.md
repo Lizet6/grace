@@ -1,5 +1,3 @@
-[soft2i]
-
 grace [![Build Status](https://secure.travis-ci.org/facebookgo/grace.png)](https://travis-ci.org/facebookgo/grace)
 =====
 
